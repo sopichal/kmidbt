@@ -1,0 +1,27 @@
+services:
+  mysqlsrv01:
+    image: mysql:8.1.0
+    container_name: mysqlsrv01
+    ports:
+      - "3306:3306"
+    volumes:
+      - ./datadir:/var/lib/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: reptiles
+    networks:
+      - kmidbt-net
+
+  cloudbeaver:
+    image: dbeaver/cloudbeaver:latest
+    container_name: cloudbeaver
+    ports:
+      - "9978:8978"
+    volumes:
+      - ./cloudbeaver-data:/opt/cloudbeaver/workspace
+    networks:
+      - kmidbt-net
+    depends_on:
+      - mysqlsrv01
+
+networks:
+  kmidbt-net:
