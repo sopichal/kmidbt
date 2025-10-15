@@ -1,8 +1,7 @@
-# MySQL data directory
-datadir/
-
-# CloudBeaver data directory
-cloudbeaver-data/
+# Database data directories
+mysql/datadir/
+mysql/cloudbeaver-data/
+mongo/datadir/
 
 # macOS
 .DS_Store
