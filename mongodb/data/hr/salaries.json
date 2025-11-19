@@ -1,0 +1,135 @@
+[
+  {
+    "_id": 1,
+    "employee_id": 100,
+    "effective_date": "2003-06-17",
+    "salary": 24000,
+    "salary_type": "annual"
+  },
+  {
+    "_id": 2,
+    "employee_id": 101,
+    "effective_date": "2005-09-21",
+    "salary": 17000,
+    "salary_type": "annual"
+  },
+  {
+    "_id": 3,
+    "employee_id": 102,
+    "effective_date": "2001-01-13",
+    "salary": 17000,
+    "salary_type": "annual"
+  },
+  {
+    "_id": 4,
+    "employee_id": 103,
+    "effective_date": "2006-01-03",
+    "salary": 9000,
+    "salary_type": "annual"
+  },
+  {
+    "_id": 5,
+    "employee_id": 103,
+    "effective_date": "2020-01-01",
+    "salary": 9500,
+    "salary_type": "annual"
+  },
+  {
+    "_id": 6,
+    "employee_id": 104,
+    "effective_date": "2007-05-21",
+    "salary": 6000,
+    "salary_type": "annual"
+  },
+  {
+    "_id": 7,
+    "employee_id": 105,
+    "effective_date": "2005-06-25",
+    "salary": 4800,
+    "salary_type": "annual"
+  },
+  {
+    "_id": 8,
+    "employee_id": 108,
+    "effective_date": "2002-08-17",
+    "salary": 12008,
+    "salary_type": "annual"
+  },
+  {
+    "_id": 9,
+    "employee_id": 108,
+    "effective_date": "2018-08-17",
+    "salary": 12500,
+    "salary_type": "annual"
+  },
+  {
+    "_id": 10,
+    "employee_id": 109,
+    "effective_date": "2002-08-16",
+    "salary": 9000,
+    "salary_type": "annual"
+  },
+  {
+    "_id": 11,
+    "employee_id": 110,
+    "effective_date": "2005-09-28",
+    "salary": 8200,
+    "salary_type": "annual"
+  },
+  {
+    "_id": 12,
+    "employee_id": 114,
+    "effective_date": "2002-12-07",
+    "salary": 11000,
+    "salary_type": "annual"
+  },
+  {
+    "_id": 13,
+    "employee_id": 145,
+    "effective_date": "2004-10-01",
+    "salary": 14000,
+    "salary_type": "annual"
+  },
+  {
+    "_id": 14,
+    "employee_id": 145,
+    "effective_date": "2019-10-01",
+    "salary": 15000,
+    "salary_type": "annual"
+  },
+  {
+    "_id": 15,
+    "employee_id": 200,
+    "effective_date": "2003-09-17",
+    "salary": 4400,
+    "salary_type": "annual"
+  },
+  {
+    "_id": 16,
+    "employee_id": 201,
+    "effective_date": "2004-02-17",
+    "salary": 13000,
+    "salary_type": "annual"
+  },
+  {
+    "_id": 17,
+    "employee_id": 203,
+    "effective_date": "2002-06-07",
+    "salary": 6500,
+    "salary_type": "annual"
+  },
+  {
+    "_id": 18,
+    "employee_id": 204,
+    "effective_date": "2002-06-07",
+    "salary": 10000,
+    "salary_type": "annual"
+  },
+  {
+    "_id": 19,
+    "employee_id": 205,
+    "effective_date": "2002-06-07",
+    "salary": 12008,
+    "salary_type": "annual"
+  }
+]

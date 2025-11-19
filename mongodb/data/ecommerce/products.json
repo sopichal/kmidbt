@@ -1,0 +1,141 @@
+[
+  {
+    "_id": 1,
+    "name": "Laptop Pro 15",
+    "category": "Electronics",
+    "price": 1299.99,
+    "stock": 45,
+    "description": "High-performance laptop with 15-inch display",
+    "specifications": {
+      "cpu": "Intel i7",
+      "ram": "16GB",
+      "storage": "512GB SSD"
+    },
+    "tags": ["laptop", "computer", "electronics"]
+  },
+  {
+    "_id": 2,
+    "name": "Wireless Mouse",
+    "category": "Accessories",
+    "price": 29.99,
+    "stock": 150,
+    "description": "Ergonomic wireless mouse with USB receiver",
+    "specifications": {
+      "connectivity": "Wireless 2.4GHz",
+      "battery": "2x AA",
+      "dpi": "1600"
+    },
+    "tags": ["mouse", "wireless", "accessories"]
+  },
+  {
+    "_id": 3,
+    "name": "USB-C Hub",
+    "category": "Accessories",
+    "price": 49.99,
+    "stock": 89,
+    "description": "7-in-1 USB-C hub with HDMI and card reader",
+    "specifications": {
+      "ports": ["HDMI", "USB 3.0 x3", "SD", "MicroSD", "USB-C"],
+      "power_delivery": "100W"
+    },
+    "tags": ["hub", "usb-c", "adapter"]
+  },
+  {
+    "_id": 4,
+    "name": "Mechanical Keyboard",
+    "category": "Accessories",
+    "price": 89.99,
+    "stock": 67,
+    "description": "RGB mechanical keyboard with blue switches",
+    "specifications": {
+      "switch_type": "Blue",
+      "backlight": "RGB",
+      "connectivity": "USB Wired"
+    },
+    "tags": ["keyboard", "mechanical", "gaming"]
+  },
+  {
+    "_id": 5,
+    "name": "27-inch Monitor",
+    "category": "Electronics",
+    "price": 349.99,
+    "stock": 32,
+    "description": "4K UHD monitor with HDR support",
+    "specifications": {
+      "resolution": "3840x2160",
+      "refresh_rate": "60Hz",
+      "panel": "IPS"
+    },
+    "tags": ["monitor", "4k", "display"]
+  },
+  {
+    "_id": 6,
+    "name": "Webcam HD",
+    "category": "Accessories",
+    "price": 79.99,
+    "stock": 120,
+    "description": "1080p HD webcam with built-in microphone",
+    "specifications": {
+      "resolution": "1920x1080",
+      "fps": "30",
+      "microphone": "Built-in"
+    },
+    "tags": ["webcam", "camera", "video"]
+  },
+  {
+    "_id": 7,
+    "name": "Bluetooth Headphones",
+    "category": "Audio",
+    "price": 159.99,
+    "stock": 78,
+    "description": "Noise-cancelling over-ear headphones",
+    "specifications": {
+      "connectivity": "Bluetooth 5.0",
+      "battery": "30 hours",
+      "noise_cancelling": true
+    },
+    "tags": ["headphones", "audio", "bluetooth"]
+  },
+  {
+    "_id": 8,
+    "name": "Portable SSD 1TB",
+    "category": "Storage",
+    "price": 129.99,
+    "stock": 95,
+    "description": "Fast portable SSD with USB-C",
+    "specifications": {
+      "capacity": "1TB",
+      "interface": "USB 3.2 Gen 2",
+      "read_speed": "1050 MB/s"
+    },
+    "tags": ["ssd", "storage", "portable"]
+  },
+  {
+    "_id": 9,
+    "name": "Laptop Stand",
+    "category": "Accessories",
+    "price": 39.99,
+    "stock": 134,
+    "description": "Adjustable aluminum laptop stand",
+    "specifications": {
+      "material": "Aluminum",
+      "adjustable": true,
+      "max_weight": "5kg"
+    },
+    "tags": ["stand", "laptop", "desk"]
+  },
+  {
+    "_id": 10,
+    "name": "USB Cable 3-Pack",
+    "category": "Accessories",
+    "price": 15.99,
+    "stock": 200,
+    "description": "USB-C to USB-A cables, 6ft each",
+    "specifications": {
+      "length": "6ft",
+      "type": "USB-C to USB-A",
+      "count": 3
+    },
+    "tags": ["cable", "usb", "charging"]
+  }
+]

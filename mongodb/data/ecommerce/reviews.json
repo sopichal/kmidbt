@@ -1,0 +1,122 @@
+[
+  {
+    "_id": 3001,
+    "product_id": 1,
+    "customer_id": 1002,
+    "rating": 5,
+    "title": "Excellent laptop for work",
+    "comment": "This laptop is perfect for my development work. Fast, reliable, and great build quality.",
+    "review_date": "2024-01-20",
+    "helpful_count": 15
+  },
+  {
+    "_id": 3002,
+    "product_id": 1,
+    "customer_id": 1007,
+    "rating": 4,
+    "title": "Great performance, a bit pricey",
+    "comment": "The laptop performs very well, but I think it's slightly overpriced compared to similar models.",
+    "review_date": "2024-03-25",
+    "helpful_count": 8
+  },
+  {
+    "_id": 3003,
+    "product_id": 2,
+    "customer_id": 1001,
+    "rating": 5,
+    "title": "Perfect wireless mouse",
+    "comment": "Very comfortable to use for long hours. Battery life is excellent.",
+    "review_date": "2024-01-15",
+    "helpful_count": 22
+  },
+  {
+    "_id": 3004,
+    "product_id": 2,
+    "customer_id": 1006,
+    "rating": 4,
+    "title": "Good value",
+    "comment": "Works well, good price point. No complaints.",
+    "review_date": "2024-03-20",
+    "helpful_count": 5
+  },
+  {
+    "_id": 3005,
+    "product_id": 4,
+    "customer_id": 1001,
+    "rating": 5,
+    "title": "Best keyboard I've owned",
+    "comment": "The blue switches are perfect for typing. RGB lighting is a nice bonus.",
+    "review_date": "2024-01-18",
+    "helpful_count": 31
+  },
+  {
+    "_id": 3006,
+    "product_id": 5,
+    "customer_id": 1003,
+    "rating": 5,
+    "title": "Stunning 4K display",
+    "comment": "Colors are vibrant and accurate. Great for photo editing and watching movies.",
+    "review_date": "2024-02-10",
+    "helpful_count": 19
+  },
+  {
+    "_id": 3007,
+    "product_id": 5,
+    "customer_id": 1007,
+    "rating": 4,
+    "title": "Good monitor with minor issues",
+    "comment": "Overall great display, but the stand could be more adjustable.",
+    "review_date": "2024-03-28",
+    "helpful_count": 6
+  },
+  {
+    "_id": 3008,
+    "product_id": 7,
+    "customer_id": 1004,
+    "rating": 5,
+    "title": "Amazing sound quality",
+    "comment": "Noise cancellation works perfectly. Battery lasts as advertised.",
+    "review_date": "2024-02-25",
+    "helpful_count": 27
+  },
+  {
+    "_id": 3009,
+    "product_id": 8,
+    "customer_id": 1005,
+    "rating": 5,
+    "title": "Fast and reliable storage",
+    "comment": "Transfer speeds are incredible. Perfect for backing up my files.",
+    "review_date": "2024-03-05",
+    "helpful_count": 12
+  },
+  {
+    "_id": 3010,
+    "product_id": 9,
+    "customer_id": 1003,
+    "rating": 4,
+    "title": "Solid laptop stand",
+    "comment": "Good build quality and adjustability. Helps with posture while working.",
+    "review_date": "2024-02-12",
+    "helpful_count": 9
+  },
+  {
+    "_id": 3011,
+    "product_id": 9,
+    "customer_id": 1001,
+    "rating": 5,
+    "title": "Must-have accessory",
+    "comment": "Improves my desk setup significantly. Very stable and well-made.",
+    "review_date": "2024-03-28",
+    "helpful_count": 14
+  },
+  {
+    "_id": 3012,
+    "product_id": 3,
+    "customer_id": 1002,
+    "rating": 4,
+    "title": "Useful hub with all the ports I need",
+    "comment": "Works great with my laptop. All ports function as expected.",
+    "review_date": "2024-01-22",
+    "helpful_count": 7
+  }
+]

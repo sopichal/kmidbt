@@ -1,0 +1,68 @@
+[
+  {
+    "_id": 10,
+    "department_name": "Administration",
+    "manager_id": 200,
+    "location_id": 1700
+  },
+  {
+    "_id": 20,
+    "department_name": "Marketing",
+    "manager_id": 201,
+    "location_id": 1800
+  },
+  {
+    "_id": 30,
+    "department_name": "Purchasing",
+    "manager_id": 114,
+    "location_id": 1700
+  },
+  {
+    "_id": 40,
+    "department_name": "Human Resources",
+    "manager_id": 203,
+    "location_id": 2400
+  },
+  {
+    "_id": 50,
+    "department_name": "Shipping",
+    "manager_id": 121,
+    "location_id": 1500
+  },
+  {
+    "_id": 60,
+    "department_name": "IT",
+    "manager_id": 103,
+    "location_id": 1400
+  },
+  {
+    "_id": 70,
+    "department_name": "Public Relations",
+    "manager_id": 204,
+    "location_id": 2700
+  },
+  {
+    "_id": 80,
+    "department_name": "Sales",
+    "manager_id": 145,
+    "location_id": 2500
+  },
+  {
+    "_id": 90,
+    "department_name": "Executive",
+    "manager_id": 100,
+    "location_id": 1700
+  },
+  {
+    "_id": 100,
+    "department_name": "Finance",
+    "manager_id": 108,
+    "location_id": 1700
+  },
+  {
+    "_id": 110,
+    "department_name": "Accounting",
+    "manager_id": 205,
+    "location_id": 1700
+  }
+]

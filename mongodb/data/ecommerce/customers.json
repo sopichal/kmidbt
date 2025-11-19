@@ -1,0 +1,130 @@
+[
+  {
+    "_id": 1001,
+    "first_name": "Emma",
+    "last_name": "Johnson",
+    "email": "emma.johnson@email.com",
+    "phone": "+1-555-0101",
+    "address": {
+      "street": "123 Main St",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10001",
+      "country": "USA"
+    },
+    "registration_date": "2023-01-15",
+    "loyalty_points": 450
+  },
+  {
+    "_id": 1002,
+    "first_name": "Michael",
+    "last_name": "Smith",
+    "email": "michael.smith@email.com",
+    "phone": "+1-555-0102",
+    "address": {
+      "street": "456 Oak Ave",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90001",
+      "country": "USA"
+    },
+    "registration_date": "2023-03-22",
+    "loyalty_points": 720
+  },
+  {
+    "_id": 1003,
+    "first_name": "Sarah",
+    "last_name": "Williams",
+    "email": "sarah.williams@email.com",
+    "phone": "+1-555-0103",
+    "address": {
+      "street": "789 Pine Rd",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60601",
+      "country": "USA"
+    },
+    "registration_date": "2023-02-10",
+    "loyalty_points": 1200
+  },
+  {
+    "_id": 1004,
+    "first_name": "James",
+    "last_name": "Brown",
+    "email": "james.brown@email.com",
+    "phone": "+1-555-0104",
+    "address": {
+      "street": "321 Elm St",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77001",
+      "country": "USA"
+    },
+    "registration_date": "2023-04-05",
+    "loyalty_points": 380
+  },
+  {
+    "_id": 1005,
+    "first_name": "Emily",
+    "last_name": "Davis",
+    "email": "emily.davis@email.com",
+    "phone": "+1-555-0105",
+    "address": {
+      "street": "654 Maple Dr",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "85001",
+      "country": "USA"
+    },
+    "registration_date": "2023-05-18",
+    "loyalty_points": 890
+  },
+  {
+    "_id": 1006,
+    "first_name": "David",
+    "last_name": "Miller",
+    "email": "david.miller@email.com",
+    "phone": "+1-555-0106",
+    "address": {
+      "street": "987 Cedar Ln",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip": "19101",
+      "country": "USA"
+    },
+    "registration_date": "2023-06-30",
+    "loyalty_points": 560
+  },
+  {
+    "_id": 1007,
+    "first_name": "Olivia",
+    "last_name": "Garcia",
+    "email": "olivia.garcia@email.com",
+    "phone": "+1-555-0107",
+    "address": {
+      "street": "147 Birch St",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78201",
+      "country": "USA"
+    },
+    "registration_date": "2023-07-12",
+    "loyalty_points": 1450
+  },
+  {
+    "_id": 1008,
+    "first_name": "Daniel",
+    "last_name": "Martinez",
+    "email": "daniel.martinez@email.com",
+    "phone": "+1-555-0108",
+    "address": {
+      "street": "258 Spruce Ave",
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "92101",
+      "country": "USA"
+    },
+    "registration_date": "2023-08-25",
+    "loyalty_points": 230
+  }
+]
