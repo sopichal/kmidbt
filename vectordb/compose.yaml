@@ -1,0 +1,37 @@
+services:
+  postgres-vectordb:
+    image: pgvector/pgvector:pg16
+    container_name: postgres-vectordb
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./datadir:/var/lib/postgresql/data
+      - ./ddl:/docker-entrypoint-initdb.d
+    environment:
+      POSTGRES_USER: vectoruser
+      POSTGRES_PASSWORD: vectorpass
+      POSTGRES_DB: vectordb
+    networks:
+      - kmidbt-net
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U vectoruser -d vectordb"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  cloudbeaver:
+    image: dbeaver/cloudbeaver:latest
+    container_name: cloudbeaver-vector
+    ports:
+      - "9979:8978"
+    volumes:
+      - ./cloudbeaver-data:/opt/cloudbeaver/workspace
+    networks:
+      - kmidbt-net
+    depends_on:
+      postgres-vectordb:
+        condition: service_healthy
+
+networks:
+  kmidbt-net:
+    # external: true

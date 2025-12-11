@@ -1,10 +1,31 @@
 # Database data directories
 mysql/datadir/
 mysql/cloudbeaver-data/
-mongo/datadir/
+mongodb/datadir/
+vectordb/datadir/
+vectordb/cloudbeaver-data/
+
+# OpenAI API keys
+vectordb/aiembeding/.env
+
+# Python virtual environments
+vectordb/aiembeding/python-aiembedings/.venv/
+vectordb/aiembeding/python-aiembedings/__pycache__/
+vectordb/aiembeding/python-aiembedings/*.pyc
+vectordb/aiembeding/python-aiembedings/.env
+
+# Sample PDFs and documentation
+vectordb/aiembeding/samples/DOWNLOAD_SAMPLES.md
+vectordb/aiembeding/samples/**/*.pdf
+
+# Logs
+*.log
 
 # macOS
 .DS_Store
+
+# Windows
+Thumbs.db
 
 # IDE
 .idea/
@@ -12,3 +33,9 @@ mongo/datadir/
 *.swp
 *.swo
 *~
+
+# Temporary/removed files
+*.removed
+*.bak
+
+CLAUDE.md
